@@ -2,7 +2,7 @@
 
 Data: 20/01/2026  
 Empresa: Abstergo Industries  
-Responsável: João Games  
+Responsável: João Vitor Castro de Andrade 
 
 ## Introdução
 Este relatório apresenta o processo de implementação de serviços AWS na empresa **Abstergo Industries**, realizado por **João Games**.  
