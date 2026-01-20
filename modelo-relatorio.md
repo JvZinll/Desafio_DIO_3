@@ -50,4 +50,4 @@ Recomenda-se a continuidade do uso das soluções adotadas e a avaliação cont�
 
 **Assinatura do Responsável pelo Projeto:**  
 
-João Games
+João Vitor Castro de Andrade
