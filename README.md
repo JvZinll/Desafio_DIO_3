@@ -5,7 +5,7 @@ Empresa: Abstergo Industries
 Responsável: João Vitor Castro de Andrade 
 
 ## Introdução
-Este relatório apresenta o processo de implementação de serviços AWS na empresa **Abstergo Industries**, realizado por **João Games**.  
+Este relatório apresenta o processo de implementação de serviços AWS na empresa **Abstergo Industries**, realizado por **João Vitor Castro de Andrade**.  
 O objetivo do projeto foi selecionar **3 serviços da AWS** com a finalidade de promover **redução imediata de custos operacionais**, mantendo a segurança, escalabilidade e eficiência dos sistemas.
 
 ---
